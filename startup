@@ -1,0 +1,2 @@
+os.version = function() return "CompLab.TK Core 1.0" end
+print(type(run))
